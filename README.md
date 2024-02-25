@@ -1,7 +1,8 @@
 Наумчук Егор Семенович МИБ 001 
 
 Скриншот
-https://drive.google.com/file/d/1oV6LmXAboAaLyxr_7ZdE1MjCIHkZNinP/view?usp=sharing
+![9KZmwyFvToM](https://github.com/kaiscend/android/assets/56931684/3c7876a3-0487-48be-81d3-3d009f3a50e3)
+
 
 Репозиторий
 https://github.com/kaiscend/android
